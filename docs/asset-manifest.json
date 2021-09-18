@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e4e15f3.chunk.css",
-    "main.js": "/static/js/main.338329b9.chunk.js",
-    "main.js.map": "/static/js/main.338329b9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.70b86e3b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.70b86e3b.js.map",
-    "static/js/2.36a6ba97.chunk.js": "/static/js/2.36a6ba97.chunk.js",
-    "static/js/2.36a6ba97.chunk.js.map": "/static/js/2.36a6ba97.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.0e4e15f3.chunk.css.map": "/static/css/main.0e4e15f3.chunk.css.map",
-    "static/js/2.36a6ba97.chunk.js.LICENSE.txt": "/static/js/2.36a6ba97.chunk.js.LICENSE.txt",
-    "static/media/Calculator.css": "/static/media/backspace_black_24dp.882bbaa4.svg"
+    "main.css": "/01-calculdora/static/css/main.0e4e15f3.chunk.css",
+    "main.js": "/01-calculdora/static/js/main.338329b9.chunk.js",
+    "main.js.map": "/01-calculdora/static/js/main.338329b9.chunk.js.map",
+    "runtime-main.js": "/01-calculdora/static/js/runtime-main.70b86e3b.js",
+    "runtime-main.js.map": "/01-calculdora/static/js/runtime-main.70b86e3b.js.map",
+    "static/js/2.36a6ba97.chunk.js": "/01-calculdora/static/js/2.36a6ba97.chunk.js",
+    "static/js/2.36a6ba97.chunk.js.map": "/01-calculdora/static/js/2.36a6ba97.chunk.js.map",
+    "index.html": "/01-calculdora/index.html",
+    "static/css/main.0e4e15f3.chunk.css.map": "/01-calculdora/static/css/main.0e4e15f3.chunk.css.map",
+    "static/js/2.36a6ba97.chunk.js.LICENSE.txt": "/01-calculdora/static/js/2.36a6ba97.chunk.js.LICENSE.txt",
+    "static/media/Calculator.css": "/01-calculdora/static/media/backspace_black_24dp.882bbaa4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70b86e3b.js",
-    "static/js/2.36a6ba97.chunk.js",
-    "static/css/main.0e4e15f3.chunk.css",
-    "static/js/main.338329b9.chunk.js"
+    "/01-calculdora/static/js/runtime-main.70b86e3b.js",
+    "/01-calculdora/static/js/2.36a6ba97.chunk.js",
+    "/01-calculdora/static/css/main.0e4e15f3.chunk.css",
+    "/01-calculdora/static/js/main.338329b9.chunk.js"
   ]
 }

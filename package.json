@@ -1,6 +1,7 @@
 {
   "name": "01-calculadora",
   "version": "0.1.0",
+  "homepage": "https://marcoscaballero.github.io/01-calculadora/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",

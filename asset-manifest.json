@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/01-calculadora/static/css/main.0579404e.chunk.css",
+    "main.js": "/01-calculadora/static/js/main.f4948211.chunk.js",
+    "main.js.map": "/01-calculadora/static/js/main.f4948211.chunk.js.map",
+    "runtime-main.js": "/01-calculadora/static/js/runtime-main.ec998a4b.js",
+    "runtime-main.js.map": "/01-calculadora/static/js/runtime-main.ec998a4b.js.map",
+    "static/js/2.6f76134e.chunk.js": "/01-calculadora/static/js/2.6f76134e.chunk.js",
+    "static/js/2.6f76134e.chunk.js.map": "/01-calculadora/static/js/2.6f76134e.chunk.js.map",
+    "index.html": "/01-calculadora/index.html",
+    "static/css/main.0579404e.chunk.css.map": "/01-calculadora/static/css/main.0579404e.chunk.css.map",
+    "static/js/2.6f76134e.chunk.js.LICENSE.txt": "/01-calculadora/static/js/2.6f76134e.chunk.js.LICENSE.txt",
+    "static/media/Calculator.css": "/01-calculadora/static/media/backspace_black_24dp.882bbaa4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec998a4b.js",
+    "static/js/2.6f76134e.chunk.js",
+    "static/css/main.0579404e.chunk.css",
+    "static/js/main.f4948211.chunk.js"
+  ]
+}
